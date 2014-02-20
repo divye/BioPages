@@ -10,6 +10,7 @@ I am also a [SMUSA-verified tutor] (http://smusa.ca/tutoring/) for a number of C
 
 Contact
 -------------
+*   [Github]   (https://github.com/divye)
 *   [Facebook] (https://www.facebook.com/divye.chakshu)
 *   [Google+]  (https://plus.google.com/u/0/+DivyeGupta)
 
